@@ -39,5 +39,6 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-Conclusion
+
+# Conclusion
 This project is dedicated to leveraging data analysis techniques to gain actionable insights, create customer profiles, and generate recommendations that will drive our company's growth in the market. The results of this analysis will inform our strategic decisions and provide a solid foundation for future business endeavors.
