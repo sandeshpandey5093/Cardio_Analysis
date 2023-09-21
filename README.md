@@ -1,6 +1,6 @@
-# Cardio_Analysis
+# Fitness_Analysis
 ## Objective
-TThe primary objective of this project is to explore the dataset and derive actionable insights that would empower the company's growth in the market. To achieve this, various data analysis tasks, including univariate and multivariate analysis, were performed. Additionally, customer profiles for different products were created, and recommendations were generated to target new customers effectively.
+The primary objective of this project is to explore the dataset and derive actionable insights that would empower the company's growth in the market. To achieve this, various data analysis tasks, including univariate and multivariate analysis, were performed. Additionally, customer profiles for different products were created, and recommendations were generated to target new customers effectively.
 
 ## Dataset Exploration and Actionable Insights
 In this project, the dataset provided was thoroughly explored to gain a deep understanding of the market and customer behavior. Through data analysis techniques, actionable insights were extracted to inform business strategies and decision-making processes. The insights obtained enabled the identification of opportunities for growth, optimization of marketing efforts, and enhancement of customer satisfaction.
