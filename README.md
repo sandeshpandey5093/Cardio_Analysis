@@ -9,7 +9,7 @@ In this project, the dataset provided was thoroughly explored to gain a deep und
 To gain a comprehensive understanding of the dataset, both univariate and multivariate analyses were conducted. Univariate analysis allowed the examination of individual variables independently, providing insights into their distributions, trends, and anomalies. Multivariate analysis, on the other hand, helped uncover relationships and dependencies between multiple variables, enabling more informed decisions.
 
 ## Building Customer Profiles
-Creating customer profiles was essential for tailoring products and services to the specific characteristics and preferences of the customer base. Customers were segmented based on various factors, such as demographics, purchase history, and behavior. These customer profiles served as valuable references for designing targeted marketing campaigns and delivering personalized experiences.
+Creating customer profiles was essential for tailoring products and services to the specific characteristics and preferences of the customer base. Customers were segmented based on various factors, including product, age, gender, education, marital status, usage, fitness level, income, and expected running miles. These customer profiles served as valuable references for designing targeted marketing campaigns and delivering personalized experiences.
 
 ## Generating Set Recommendations
 In the quest to expand market reach, a set of recommendations was generated to help the company effectively target new customers. These recommendations were data-driven and included strategies for product diversification, pricing optimization, and customer acquisition. By implementing these recommendations, the aim was to capitalize on untapped market potential and drive business growth.
@@ -23,7 +23,7 @@ In the quest to expand market reach, a set of recommendations was generated to h
 
 4. Multivariate Analysis: Relationships between variables were explored to uncover hidden patterns.
 
-5. Customer Profiling: Customer profiles were created based on relevant attributes.
+5. Customer Profiling: Customer profiles were created based on relevant attributes, including product, age, gender, education, marital status, usage, fitness level, income, and expected running miles.
 
 6. Recommendation Generation: Data-driven recommendations for market expansion were generated.
 
