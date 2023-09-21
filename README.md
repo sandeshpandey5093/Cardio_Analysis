@@ -32,12 +32,12 @@ In our quest to expand our market reach, we will generate a set of recommendatio
 ## Tools and Libraries
 To accomplish these objectives, we will utilize a variety of data analysis tools and libraries, including but not limited to:
 
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
 ## Conclusion
 This project is dedicated to leveraging data analysis techniques to gain actionable insights, create customer profiles, and generate recommendations that will drive our company's growth in the market. The results of this analysis will inform our strategic decisions and provide a solid foundation for future business endeavors.
